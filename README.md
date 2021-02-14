@@ -1,24 +1,7 @@
-# README
+# Friends list app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is Rex Cheung.
+This is my first real app created with Ruby.
+Still learning everthing and trying everything out.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Feel free to use it and you can mail me at wd.immortalcat@gmail.com
